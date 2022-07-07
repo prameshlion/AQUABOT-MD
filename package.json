@@ -52,8 +52,7 @@
      "path": "^0.12.7",
      "megajs" : "^1.0.4",  
      "moment-timezone": "^0.5.33",
-    "node-fetch": "FROM aquabotwa/sanuwa-official:beta        
-    ["node", "bot.js"]" ,
+    "node-fetch": ".0" ,
      "translatte " : "^3.0.1",
      "@hapi/boom" : "^10.0.0",
      "g-i-s" : "^2.1.6"  ,
